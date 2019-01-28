@@ -1,4 +1,4 @@
-# This is IOE ERC20 Automatic trading dApp Quick Start Guide
+# This is IOE ERC20 Trading dApp Quick Start Guide
 
 ### IOE Official website : https://ioelink.net/
 
