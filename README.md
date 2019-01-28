@@ -8,3 +8,7 @@
 <br />
 
 * [中文繁體快速開始指南](https://github.com/IOElinkio/dApp-Quick-Start-Guide/wiki/QuickStartGuide-zh_TW)
+
+
+* [Quick Start Guide](https://github.com/IOElinkio/dApp-Quick-Start-Guide/wiki/QuickStartGuide-EN)
+
